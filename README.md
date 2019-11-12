@@ -10,7 +10,7 @@
 
 ## Introduction
 
-As distributed systems become increasingly popular, the reliability between services is becoming more important than ever before.
+As distributed sstems become increasingly popular, the reliability between services is becoming more important than ever before.
 Sentinel takes "flow" as breakthrough point, and works on multiple fields including **flow control**, **circuit breaking** and **system adaptive protection**, to guarantee reliability of microservices.
 
 Sentinel has the following features:
